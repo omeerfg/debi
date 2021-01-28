@@ -5,7 +5,8 @@
 * Parsers can be used in the second parameters.
 * @param string a Must be of string type
 * @param string b Must be of string type
-    ```ustr(a, b)```
+ 
+#  ```ustr(a, b)```
 
 
 
@@ -14,4 +15,4 @@
 * @param array a Must be of array type
 * @param array b Must be of array type
 
-   ```uarr(a, b)```
+#```uarr(a, b)```
