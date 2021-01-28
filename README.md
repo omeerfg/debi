@@ -15,4 +15,4 @@
 * @param array a Must be of array type
 * @param array b Must be of array type
 
-#```uarr(a, b)```
+# ```uarr(a, b)```
